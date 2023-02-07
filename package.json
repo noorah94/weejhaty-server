@@ -16,18 +16,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "build": "node index.js",
     "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MP-Project-Noorah/server.git"
+    "url": "git+https://github.com/noorah94/weejhaty-server.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MP-Project-Noorah/server/issues"
+    "url": "https://github.com/noorah94/weejhaty-server/issues"
   },
-  "homepage": "https://github.com/MP-Project-Noorah/server#readme"
+  "homepage": "https://github.com/noorah94/weejhaty-server#readme"
 }
